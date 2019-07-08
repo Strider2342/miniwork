@@ -1,0 +1,24 @@
+{
+  "name": "miniwork",
+  "version": "0.0.1",
+  "description": "minimalistic javascript framework",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strider2342/miniwork.git"
+  },
+  "keywords": [
+    "javascript",
+    "minimal",
+    "framework"
+  ],
+  "author": "strider2342",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Strider2342/miniwork/issues"
+  },
+  "homepage": "https://github.com/Strider2342/miniwork#readme"
+}
