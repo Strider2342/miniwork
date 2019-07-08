@@ -1,0 +1,2 @@
+# miniwork
+minimalistic javascript framework
